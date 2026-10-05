@@ -38,9 +38,11 @@ Every submission is judged against these. Break one and you're out.
 
 ## What to submit
 
-- Your game as **one HTML file** (preferred) or a **Godot 4 project folder**
+- Your game as **one HTML file** (strongly preferred — must stay under 250KB total)
 - A short README: mode name, the fire-safety lesson it teaches, and how to play (3–5 sentences)
-- Your name/username and email so we can reach you
+- Your real full name, phone number, and mailing address (required for prize eligibility)
+
+> **Note on Godot:** Godot 4 projects are accepted but the 250KB hard limit still applies — a standard Godot export will exceed it. Only submit Godot work if you can hit the size target.
 
 ## How to submit
 

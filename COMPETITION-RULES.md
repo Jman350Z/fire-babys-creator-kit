@@ -41,9 +41,20 @@
 
 ## How to submit
 
-- **Discord:** post in the `#creator-submissions` channel with a link to your file (or attach the HTML file directly)
-- **Email:** send to the address listed in the Discord `#creator-start-here` channel
-- Include: your username, your email, mode name, the lesson it teaches, how to play
+**Submit here:** https://docs.google.com/forms/d/e/1FAIpQLSfD5lHC6apj5JqVs8yatzPMn2SVlUr-pybYmsNgAIcAC52jYg/viewform
+
+You'll need:
+- Your **real full legal name** (or parent/guardian's if under 18)
+- Your **phone number**
+- Your **mailing address** (street, city, state/province, postal code, country)
+- Your creator name + email
+- Game title + short description (2–3 sentences)
+- Link to your playable game or game files (must be under 250KB)
+- Agreement to these rules (checkbox on the form)
+
+One game per person. Every submission is security-scanned and reviewed by our team before appearing in the Arcade. Nothing goes live automatically.
+
+*These rules are pending professional legal review before large-scale promotion.*
 
 ## Timeline
 
