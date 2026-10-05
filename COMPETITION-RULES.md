@@ -31,7 +31,7 @@
 - Follow the STARTER-PROMPT exactly (6 Pillars + brand rules)
 - Be your own original work
 - Be kid-safe (ages 5–12)
-- Stay under 250KB
+- **Stay under 250KB total file size — no exceptions.** Big files load slow on phones and get rejected automatically. Compress your images, keep audio tiny.
 - Include the fire-safety lesson it teaches
 
 ## How to submit
