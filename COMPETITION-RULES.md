@@ -30,7 +30,12 @@
 
 - Follow the STARTER-PROMPT exactly (6 Pillars + brand rules)
 - Be your own original work
-- Be kid-safe (ages 5–12)
+- **Be 100% kid-safe per US children's gaming rules (ages 5–12) — NO exceptions:**
+  - NO chat, messaging, or any way for players to talk to strangers
+  - NO drugs, alcohol, or smoking references of any kind
+  - NO sexual content, nudity, or suggestive material — nothing even close
+  - NO gambling, loot boxes with real money, or predatory mechanics
+  - NO links out to unreviewed sites
 - **Stay under 250KB total file size — no exceptions.** Big files load slow on phones and get rejected automatically. Compress your images, keep audio tiny.
 - Include the fire-safety lesson it teaches
 
