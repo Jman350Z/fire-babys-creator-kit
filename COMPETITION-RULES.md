@@ -17,11 +17,14 @@
 - **Website or Discord feature ≠ the prize.** If your game mode is posted on firebabys.io or in the Discord for the public to try, that is **not** the same as being selected for the phone app. Only phone-app selection pays $10,000.
 - **We may use your submission as we see fit.** By submitting, you grant Fire Babys a permanent, worldwide, royalty-free license to use, modify, display, and distribute your entry — including ideas, code, art, and mechanics — in any Fire Babys product, with or without credit. If your mode ships in the phone app, you get the $10,000. If it doesn't, we may still use parts of it and you agree that's fine.
 
-## Eligibility
+## Eligibility — READ THIS
 
-- Open to everyone, worldwide. One entry per person per month (you can update your entry).
-- You must have built it yourself. No copied games, no stolen assets, no AI-slop asset flips. If we find plagiarism, you're banned from the competition.
-- You must be 18+ to receive the prize, or have a parent/guardian claim it for you.
+- **One game per person. Period.** You get ONE submission. Make it count. (You may update/fix your entry, but you may not submit a second game.)
+- **To be eligible for the $10,000, you MUST submit your REAL full name, phone number, and mailing address** on the submission form. No exceptions. This is how we verify you're a real person, contact you if you win, and send the prize.
+- **Your info stays private.** We collect it only to run the competition — verifying identity, contacting winners, paying the prize. We never sell it or share it publicly. If you don't win, your personal details are never published.
+- You must have built it yourself. No copied games, no stolen assets. If we find plagiarism, you're banned.
+- You must be 18+ to receive the prize, or have a parent/guardian claim it for you (their name/phone/address goes on the form).
+- Open worldwide. If something's unclear, the Fire Babys team's call is final.
 
 ## Your entry must
 
