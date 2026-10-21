@@ -53,3 +53,7 @@ See **COMPETITION-RULES.md** for where to send your entry and the full terms.
 The world decides. Approved entries go on firebabys.io and the Discord for the public to play and vote. The Fire Babys team picks the winner from community favorites. One mode ships in the phone app. That creator gets **$10,000**.
 
 Build something a kid will love and a firefighter will respect. 🔥
+
+## Canon update — the Transformation Law (Jeff, 2026-10-20)
+
+In any Fire Babys cinematic, trailer, or video: when a Fire Baby or Water Baby puts on a suit, armor, or gear, they do NOT stay a round ball in a costume — they instantly transform into a sleek, athletic humanoid warrior made of living fire or water (elemental energy, never human skin), keeping their flame/water texture, flame/water hair, and face. Ball-in-suit is banned. Unsuited, the Babys stay their classic round selves. Canon storyline: the Moon Base Invasion — the Fire Babys and Water Babys rescue each other; heroism runs both ways.
