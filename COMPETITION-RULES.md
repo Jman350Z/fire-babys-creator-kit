@@ -30,7 +30,7 @@
 
 - Follow the STARTER-PROMPT exactly (6 Pillars + brand rules)
 - Be your own original work
-- **Be 100% kid-safe per US children's gaming rules (ages 5–12) — NO exceptions:**
+- **Be 100% clean and safe for everyone — NO exceptions:**
   - NO chat, messaging, or any way for players to talk to strangers
   - NO drugs, alcohol, or smoking references of any kind
   - NO sexual content, nudity, or suggestive material — nothing even close
