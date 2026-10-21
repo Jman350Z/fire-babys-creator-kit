@@ -2,18 +2,18 @@
 
 ## The invitation
 
-You are invited to design a **game mode concept** for **Fire Babys**, the kids' fire-safety battle game. Thousands of creators will build. **One** game mode will ship in the official Fire Babys phone app — and its creator gets **$10,000**.
+You are invited to design a **game mode concept** for **Fire Babys**, the fire-safety battle game for everyone. Thousands of creators will build. **One** game mode will ship in the official Fire Babys phone app — and its creator gets **$10,000**.
 
 ## What is Fire Babys?
 
-Fire Babys is a free, kid-safe battle game that secretly teaches children to prevent house fires and what to do when a fire is nearby. Our flagship mode is **SPLASH** — two teams, two pools, grab your rivals and dunk them. Last team standing wins. Cute chaos on the surface, real fire-safety instincts underneath.
+Fire Babys is a free battle game for everyone that secretly teaches players to prevent house fires and what to do when a fire is nearby. Our flagship mode is **SPLASH** — two teams, two pools, grab your rivals and dunk them. Last team standing wins. Cute chaos on the surface, real fire-safety instincts underneath.
 
 Our mission: game proceeds are intended to fund real US fire-department school-awareness programs.
 
 ## Your mission
 
 Design **one original game mode** for the Fire Babys universe. It should:
-- Be playable by kids ages 5–12
+- Be playable by everyone — simple enough for a child, fun for adults too
 - Teach a real fire-safety lesson through play (not lectures)
 - Star the Fire Babys characters (Ruko, Boulder, Sizzle, Cinder, Blaze, Lord Inferno)
 - Run as a single HTML file or a small Godot project
@@ -33,7 +33,7 @@ Every submission is judged against these. Break one and you're out.
 
 - Fire Babys are **gold** — treat them with love. Never the butt of the joke, never shown harmed.
 - No realistic humans. No birds, beaks, wings, or feathers. No Angry Birds resemblance.
-- Kid-safe, always. A parent must feel good watching their 6-year-old play it.
+- Safe, clean fun for everyone, always.
 - Every game ends with: `the future is BLAZING FOR FIRE BABYS 🔥`
 
 ## What to submit
@@ -52,7 +52,7 @@ See **COMPETITION-RULES.md** for where to send your entry and the full terms.
 
 The world decides. Approved entries go on firebabys.io and the Discord for the public to play and vote. The Fire Babys team picks the winner from community favorites. One mode ships in the phone app. That creator gets **$10,000**.
 
-Build something a kid will love and a firefighter will respect. 🔥
+Build something everyone will love and a firefighter will respect. 🔥
 
 ## Canon update — the Transformation Law (Jeff, 2026-10-20)
 
