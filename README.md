@@ -33,7 +33,7 @@ Welcome, creator. This is the official starter kit for the **Fire Babys Creator 
 
 ## Brand law
 
-Fire Babys are **gold**. Treat them with love. Never harmed, never burning homes, never the butt of the joke. Kid-safe always. Every game ends with: `the future is BLAZING FOR FIRE BABYS 🔥`
+Fire Babys are **gold**. Treat them with love. Never harmed, never burning homes, never the butt of the joke. Safe, clean fun for everyone, always. Every game ends with: `the future is BLAZING FOR FIRE BABYS 🔥`
 
 ## Links
 
@@ -41,4 +41,4 @@ Fire Babys are **gold**. Treat them with love. Never harmed, never burning homes
 - Join the creators on Discord: (see #creator-start-here for the invite)
 - Main site: https://firebabys.io
 
-Good luck. Build something a kid will love and a firefighter will respect. 🔥
+Good luck. Build something everyone will love and a firefighter will respect. 🔥
